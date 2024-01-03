@@ -1,0 +1,23 @@
+#div {
+    border: 1px solid white;
+    margin: 7px;
+    padding: 5px;
+    border-radius: 7px
+}
+
+#btn-complete {
+    padding: 5px;
+    margin-right: 10px;
+    background-color: #306844
+}
+
+#btn-delete {
+    padding: 5px;
+    background-color: #5c1010
+}
+
+.input-box {
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
